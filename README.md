@@ -1,7 +1,6 @@
 # Transfuser - Will save your life!
 
 ## Features
-* Highly Configurable
 * Sync and Async loading
 * Supports JSON and JS file types
 
