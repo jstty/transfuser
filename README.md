@@ -34,7 +34,7 @@ The first argument is a string or array of file(s) to load. If the file starts w
 
 ## Examples
 
-* [Basic example](https://github.com/jstty/stumpy/blob/master/examples/basic.js)
+* [Basic example](https://github.com/jstty/transfuser/blob/master/examples/basic.js)
 
 
 ## License
