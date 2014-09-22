@@ -1,0 +1,47 @@
+{
+    "name": "transfuser",
+    "version": "0.2.0",
+    "description": "Fetching and combining the essential configurations needed for your server/application",
+    "keywords": [
+        "transfuser",
+        "node.js",
+        "javascript",
+        "config",
+        "configs",
+        "manager",
+        "configurtion",
+        "transform",
+        "fuse"
+    ],
+    "author": {
+        "name": "Joseph E. Sutton",
+        "email": "joe@jstty.com",
+        "web": "http://www.jstty.com"
+    },
+    "maintainers": [
+        {
+            "name": "Joseph E. Sutton",
+            "email": "joe@jstty.com"
+        }
+    ],
+    "main": "index.js",
+    "license": {
+        "type": "MIT"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jstty/transfuser.git"
+    },
+    "dependencies": {
+        "lodash": "~2.4.1",
+        "when":   "~3.4.4",
+        "stumpy": "0.6.x"
+    },
+    "devDependencies": {
+        "chai":   "~1.9.1",
+        "mocha":  "~1.18.2"
+    },
+    "scripts": {
+        "test":   "mocha"
+    }
+}

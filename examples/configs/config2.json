@@ -1,0 +1,10 @@
+{
+    "value1": "pizza",
+    "value2": "garlic sticks",
+    "tree": {
+        "subBranch": {
+            "subItem2": "B-Alt",
+            "subItem3": "C"
+        }
+    }
+}
