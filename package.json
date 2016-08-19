@@ -1,6 +1,6 @@
 {
   "name": "transfuser",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Fetching and combining the essential configurations needed for your server/application",
   "keywords": [
     "transfuser",
