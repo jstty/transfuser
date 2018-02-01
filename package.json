@@ -1,6 +1,6 @@
 {
   "name": "transfuser",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Fetching and combining the essential configurations needed for your server/application",
   "keywords": [
     "transfuser",
@@ -33,9 +33,9 @@
     "url": "http://github.com/jstty/transfuser.git"
   },
   "dependencies": {
-    "lodash": "~3.10.1",
-    "stumpy": "~0.6.x",
-    "when": "~3.7.7"
+    "lodash": "~4.17.4",
+    "stumpy": "~0.7.1",
+    "when": "~3.7.8"
   },
   "scripts": {
     "test": "mocha"
